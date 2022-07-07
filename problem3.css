@@ -1,0 +1,45 @@
+html , body {
+    height: 100%;
+    width: 80%;
+    margin: 0;
+    
+}
+
+#box {
+   border:2px solid whitesmoke;
+    float:left;
+    margin: 50px;
+    width: 30%;
+    height: 90%;
+    padding: 1em;
+    
+}
+span{
+    color: rgb(8, 223, 8);
+}
+
+.shirt{
+    color:#9b9797;
+}
+.button {
+    background-color:rgb(16, 84, 161);
+    border: none;
+    color: white;
+    padding: 10px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+   
+  }
+  .payment {
+    
+    border: black;
+    
+    padding: 10px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+   
+  }
